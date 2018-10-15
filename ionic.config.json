@@ -1,0 +1,7 @@
+{
+  "name": "ToonAPP",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
